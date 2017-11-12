@@ -3,7 +3,8 @@ module.exports = {
         "browser": true,
         "es6": true,
         "node": true,
-        "jquery": true
+        "jquery": true,
+        "jasmine": true
     },
     "extends": "eslint:recommended",
     "parserOptions": {
